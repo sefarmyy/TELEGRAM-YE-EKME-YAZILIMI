@@ -1,5 +1,6 @@
 # TELEGRAM-YE-EKME-YAZILIMI
 Telegram üye çekme yazılımı, tg üye çekme, telegram üye çekme botu, telegram botu, telegram grup büyütme
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/95fbb69b-f365-4bcb-b7e3-21a7f431cdd2" />
 
 🧩 Modern & Kullanıcı Dostu Arayüz
 
